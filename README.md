@@ -1,4 +1,4 @@
-# AudioSplitter
+# Audio Splitter
 Small and simple browser extension to route tab sound to left or right audio channel.
 
 Now you can watch two YouTube videos / Twitch streams simultaneously – pure ADHD experience for people who believe their brain can process all that (it can’t).
