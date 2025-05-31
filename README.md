@@ -20,3 +20,7 @@ Download the latest .xpi file in the [releases section](https://github.com/alexy
 
 1. Drag and drop the xpi file on Firefox.
 2. Click on "Add" in the little confirmation popup.
+
+If does not work, try to use this:
+1. Visit about:debugging
+2. Select "Load Temporary Add-on".
