@@ -1,6 +1,6 @@
 # Audio Splitter
 Audio Splitter is a lightweight and simple browser extension to route tab sound to left or right audio channel.
-It supports capturing and routing audio from two separate browser tabs simultaneously.
+It supports capturing and routing sound from two separate browser tabs simultaneously.
 
 Now you can watch two YouTube videos / Twitch streams at a time – pure ADHD experience for people who believe their brain can process all that.
 
