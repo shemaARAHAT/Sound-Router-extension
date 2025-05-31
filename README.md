@@ -7,7 +7,7 @@ Supports Chromium (Chrome, Thorium, Brave, Edge, Opera...) and Firefox based bro
 
 ## Download & installation
 ### **Chromium browser**
-Download the latest release in the [releases section](https://github.com/alexyowl/AudioSplitter/releases) or clone the repo.
+Download the latest .zip file in the [releases section](https://github.com/alexyowl/AudioSplitter/releases) or clone the repo.
 
 1. Go in manage extension (chrome://extensions/).
 2. Make sure Developer mode is enabled.
