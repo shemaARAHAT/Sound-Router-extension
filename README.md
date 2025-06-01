@@ -1,8 +1,13 @@
-# Audio Splitter
-Audio Splitter is a lightweight and simple browser extension to route tab sound to left or right audio channel.
-It supports capturing and routing sound from two separate browser tabs simultaneously.
+# Sound Router
+Sound Router is a lightweight browser extension to route video sound to left or right stereo audio channel. <br> It supports capturing and routing sound for multiple browser tabs simultaneously.
+### Features:
+* **Right mode** – switch sound to right ear.
+* **Left mode** – switch sound to left ear.
+* **Mono mode** – balance sound if video's original sound is offset.
+* **Reset** – reset sound to original.
+<br/><br/>
 
-Now you can watch two YouTube videos / Twitch streams at a time – pure ADHD experience for people who believe their brain can process all that.
+Supports all HTML5 video players.
 
 Supports Chromium (Chrome, Thorium, Brave, Edge, Opera...) and Firefox based browsers.
 
@@ -24,3 +29,6 @@ Download the latest .xpi file in the [releases section](https://github.com/alexy
 If does not work, try to use this:
 1. Visit about:debugging
 2. Select "Load Temporary Add-on".
+<br/><br/>
+
+_Now you can watch two YouTube videos / Twitch streams at a time – pure ADHD experience for people who believe their brain can process all that._
